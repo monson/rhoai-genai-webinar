@@ -31,4 +31,4 @@ def upload_directory_to_s3(local_directory, s3_prefix):
 
 
 if __name__ == '__main__':
-    upload_directory_to_s3(local_directory='./data/google/converted/flan-t5-small', s3_prefix='flan-t5-small')
+    upload_directory_to_s3(local_directory='/data/google/converted/flan-t5-small', s3_prefix='flan-t5-small')

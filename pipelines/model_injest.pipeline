@@ -27,7 +27,6 @@
                 {
                   "path": "/data",
                   "pvc_name": "pipeline-storage",
-                  "sub_path": "model",
                   "read_only": false
                 }
               ],
@@ -90,7 +89,6 @@
                 {
                   "path": "/data",
                   "pvc_name": "pipeline-storage",
-                  "sub_path": "model",
                   "read_only": false
                 }
               ],
@@ -160,7 +158,6 @@
                 {
                   "path": "/data",
                   "pvc_name": "pipeline-storage",
-                  "sub_path": "model",
                   "read_only": false
                 }
               ],
